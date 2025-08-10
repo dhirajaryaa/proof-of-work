@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "ai-resume-builder",
+    "title": "AI Resume Builder",
+    "description": "An AI-powered resume generator that creates tailored, ATS-friendly resumes instantly.",
+    "date": "2024-11-07",
+    "category": "fullstack"
+  },
+  {
+    "slug": "quickformx-form-builder",
+    "title": "QuickFormX",
+    "description": "A dnd form builder. and get submission on intently.",
+    "date": "2025-05-18",
+    "category": "fullstack"
+  },
+  {
+    "slug": "goal-countdown-extension",
+    "title": "Goal Countdown",
+    "description": "A countdown on setaad target. also show graph of background.",
+    "date": "2025-07-25",
+    "category": "extension"
+  },
+  {
+    "slug": "system-monitor-nodejs",
+    "title": "System Monitor",
+    "description": "A cli real time system monitor.build in node js.",
+    "date": "2025-04-20",
+    "category": "backend"
+  },
+  {
+    "slug": "ecommerce-site-frontend",
+    "title": "ECommerce Site",
+    "description": "A ecommerce site using react [usecontext, usereducer ,etc.] ,for styling use tailwind css and tailblocks pre build ui components and for api use fakeshop api",
+    "date": "2024-06-10",
+    "category": "frontend"
+  },
+  {
+    "slug": "todo-site-frontend",
+    "title": "Todo App",
+    "description": "A to-do application built with React. It allows users to perform all CRUD operations: Create, Read, Update, and Delete tasks.",
+    "date": "2024-05-18",
+    "category": "frontend"
+  }
+]
